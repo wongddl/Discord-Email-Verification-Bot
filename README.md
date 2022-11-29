@@ -1,4 +1,4 @@
-## VerificationBot
+## Discord Email Verification Bot
 This bot allows user to verify in DISCORD through Email Verification with specific domain. Additionally, the bot utilizes googlesheets as database for data storing. This bot was coded with python (discordpy).
 
 Join my discord channel to try the bot!
