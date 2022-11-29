@@ -35,7 +35,7 @@ After getting the requirements from above
 
 ## Additional Information
 - Embedded messages can be edited from the function at `bot.py` at `lines 90 to 154`, read more from [discordpy Embed](https://discordpy.readthedocs.io/en/stable/api.html?highlight=embed#discord.Embed)
-- Email message can be editing `html_content` at `line 161`, [Example Email](https://media.discordapp.net/attachments/1032348940592496645/1047096620459773992/image.png)
+- Email message can be changed by editing `html_content` at `line 161`, [Example Email](https://media.discordapp.net/attachments/1032348940592496645/1047096620459773992/image.png)
 
 ## Lisence
 VerificationBot is licensed under [GNU GPL v3](LICENSE).
